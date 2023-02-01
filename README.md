@@ -1,6 +1,6 @@
 # network-plus
 
-This document has been written to prepare for the comptia network+ exam. It contains an understandable summary of all exam topics. If you want it more detailed and video explanations, you can search for yourself or look at the other [resources](https://github.com/beyzadp/cybersec-and-dev-resources#network) I have gathered. If you need even more source or notes you can reach me or open a issue.
+This document has been written to prepare for the comptia network+ exam. It contains an understandable summary of all exam topics. If you want it more detailed or need video explanations, you can search for yourself or look at the other [resources](https://github.com/beyzadp/cybersec-and-dev-resources#network) I have gathered. If you need even more source or notes you can reach me or open a issue.
 
 ## Section 1: Networking Concepts
 - [1.1 – The OSI Model](https://github.com/beyzadp/network-plus/blob/main/networkplus.md#11--the-osi-model)
